@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.6.3&packaging=jar&jvmVersion=17&groupId=com.example&artifactId=ATVHub&name=ATVHub&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.ATVHub&dependencies=web,data-jpa,postgresql
